@@ -20,8 +20,8 @@ However, if the tool can be used for another task, just mention tool name in the
 
 Please, add the appropriate labels:
 
-- ![Screen Player](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true =20x20) for any resource that is full video course. Use the following snippet: `![Screen Player](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true =20x20)`
-- ![flutterio-icon.svg](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true =20x20)for any resource made by Google's Flutter Team. Use the following snippet: `![flutterio-icon.svg](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true =20x20)`
+- <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/> for any resource that is full video course. Use the following snippet: `![Screen Player](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true =20x20)`
+- <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/> for any resource made by Google's Flutter Team. Use the following snippet: `![flutterio-icon.svg](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true =20x20)`
 
 ## Review Workflow
 
