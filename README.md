@@ -33,19 +33,16 @@ If you found some awesome resource for learning Flutter, just send a Pull Reques
 
 We use such labels for free:
 
-- ![flutter-icon.svg](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true =20x20) --> Add it to resource that is made by Google's Flutter team
-- ![screen-player.svg](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true =20x20) --> Add it to resource that is a video course
+- <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/> --> Add it to resource that is made by Google's Flutter team
+- <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/> --> Add it to resource that is a video course
 
 Don't forget to add them. Now I'd love to see your suggestions!
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-
 - [Widgets](#widgets)
-
 - [Animations](#animations)
-
 - [Example Apps](#example-apps)
 
 # Introduction
@@ -97,6 +94,10 @@ Complementing Tutorials:
 
 # Recommended Learning Resource
 
-- [The Boring Flutter Development Show](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl) ![Alt text](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true =20x20) ![Screen Player](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true =20x20)
+- [The Boring Flutter Development Show](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
 
-- [Flutter Bootcamp with Angela Yu](https://www.udemy.com/flutter-bootcamp-with-dart/) ![Alt text](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true =20x20) ![Screen Player](https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true =20x20)
+- [Flutter Bootcamp with Angela Yu](https://www.udemy.com/flutter-bootcamp-with-dart/)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
