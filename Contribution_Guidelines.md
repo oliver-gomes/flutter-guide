@@ -8,11 +8,11 @@ If you would like to contribute, just send a Pull Request. Please:
 - End all descriptions with a full stop/period and remove trailing whitespace.
 - Check spelling and grammar.
 
-## One tool can go only to one category
+## Things to note
 
-Every category presents some design work or task. Many design tools allow us to solve multiple tasks. But in this list, one tool with full description & link is always submitted only to one category (section). Why do so? Because we want to avoid many duplications and misunderstanding around tool functionality.
+Widgets section is kept simple as I only want to highlight the must-know ones as there's so many of them but to get started with Flutter we only need the basics.
 
-However, if the tool can be used for another task, just mention tool name in the additional sentence at the end of another category, like here: `You can also do prototyping with Figma, Adobe XD, Sketch and InVision Studio, which are mentioned in the UI Design Tools section.`
+This Guide is aimed to collect awesome Flutter resources and hopefully become the go to Flutter guide.
 
 ## Link Format
 
@@ -25,4 +25,4 @@ Please, add the appropriate labels:
 
 ## Review Workflow
 
-We will do our best to review your submission as soon as we can. Please, consider that we have a full-time job in our startup :) Your contribution might be rejected if the tool didn't pass our curation. Of course, this is very subjective and if you think we are being unfair, do let us know.
+I will do our best to review your submission as soon as we can. Your contribution might be rejected if the resources didn't pass our curation. Of course, this is very subjective and if you think I am being unfair, do let me know.
