@@ -8,7 +8,9 @@ If you would like to contribute, just send a Pull Request. Please:
 - End all descriptions with a full stop/period and remove trailing whitespace.
 - Check spelling and grammar.
 
-## Things to note
+## Things to Add
+
+Complementing Tutorials, Animations, Examples Apps, Recommended Learning Resources and any additional resouce that you think would benefit beginner Flutter developer.
 
 Widgets section is kept simple as I only want to highlight the must-know ones as there's so many of them but to get started with Flutter we only need the basics.
 
