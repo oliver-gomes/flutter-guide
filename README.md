@@ -90,6 +90,13 @@ Complementing Tutorials:
 
 # Animations
 
+# Material Design
+Implementing Material Design in Flutter
+
+- [Material Design login page](https://codeburst.io/make-a-material-design-login-page-with-flutter-the-basics-99d3acd80b18)
+- [Flutter II: Material Design — [Flutter 1.0]](https://medium.com/@develodroid/flutter-ii-material-design-f437e3e8e6a9)
+- [Material Components widgets](https://flutter.dev/docs/development/ui/widgets/material) <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
+
 # Example Apps
 
 # Recommended Learning Resource
