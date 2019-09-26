@@ -107,7 +107,8 @@ Implementing Material Design in Flutter
 
 # Example Apps
 ## Food Recipe
-Application that presents information about food recipes from [TheMealDb](https://www.themealdb.com) API
+Application that presents information about food recipes from [TheMealDb](https://www.themealdb.com) API.<br />
+- [Github Project](https://github.com/CoderJava/Food-Recipe) by Yudi Setiawan
 
 <img  src="https://github.com/CoderJava/flutter-guide/blob/master/images/sample%20apps/food%20recipe.gif?raw=true"  width="200"  height="370"/>
 
