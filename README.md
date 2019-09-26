@@ -103,6 +103,10 @@ Implementing Material Design in Flutter
 
 # Example Apps
 
+- [The Hacker News App](https://github.com/filiph/hn_app) by Filip Hracek
+- [Flews - A multi-service news app](https://github.com/jbarr21/flews) by James Barr
+- [Grocery Shopping App](https://github.com/Widle-Studio/Grocery-App) by Widle Studio
+
 # Recommended Learning Resource
 
 - [The Boring Flutter Development Show](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
