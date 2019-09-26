@@ -134,6 +134,10 @@ Application that presents information about food recipes from [TheMealDb](https:
 
 [<img src="https://github.com/CoderJava/flutter-guide/blob/master/images/google-play-badge.png" width="194" height="75">](https://play.google.com/store/apps/details?id=ysn.com.food_recipe)
 
+- [The Hacker News App](https://github.com/filiph/hn_app) by Filip Hracek
+- [Flews - A multi-service news app](https://github.com/jbarr21/flews) by James Barr
+- [Grocery Shopping App](https://github.com/Widle-Studio/Grocery-App) by Widle Studio
+
 # Recommended Learning Resource
 
 - [The Boring Flutter Development Show](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
