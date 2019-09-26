@@ -25,6 +25,9 @@
 
 ## How to Use and Contribute
 
+⚡Hacktoberfest⚡ Hacker Welcome!
+Welcoming coder of all skills! Beginner on their first PR to hardcore flutterista. 
+
 - Go through the Table of Contents and start exploring all exciting Flutter features
 
 - Everything is made in chronological order for ease of understanding Flutter
@@ -44,6 +47,7 @@ Don't forget to add them. Now I'd love to see your suggestions!
 - [Widgets](#widgets)
 - [Animations](#animations)
 - [Example Apps](#example-apps)
+- [Recommended Learning Resource](#recommended-learning-resource)
 
 # Introduction
 
