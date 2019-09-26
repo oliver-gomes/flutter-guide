@@ -92,6 +92,30 @@ Complementing Tutorials:
 Complementing Tutorials:
 -- [Column Tutorial from FlutterDoc](https://flutterdoc.com/widgets-column-e129769fbcb3)
 
+- ## ListView
+  <p align="center">
+  <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/listview/flutter-listview.gif?raw=true">
+  </p>
+
+Complementing Tutorials:
+-- [Mastering Flutter ListView from Pusher.com](https://pusher.com/tutorials/flutter-listviews)
+
+- ## GridView
+  <p align="center">
+  <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/gridview/flutter-gridview.png?raw=true">
+  </p>
+  
+Complementing Tutorials:
+-- [GridView Tutorial from Yudi Setiawan](https://medium.com/nusanet/flutter-gridview-bad48c1f216c)
+
+- ## Cupertino
+  <p align="center">
+  <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/cupertino/flutter-cupertino.png?raw=true">
+  </p>
+  
+Complementing Tutorials:
+-- [Cupertino Tutorial from Yudi Setiawan](https://medium.com/nusanet/flutter-cupertino-app-76c33768c242)
+
 # Animations
 
 # Material Design
@@ -102,6 +126,13 @@ Implementing Material Design in Flutter
 - [Material Components widgets](https://flutter.dev/docs/development/ui/widgets/material) <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
 
 # Example Apps
+## Food Recipe
+Application that presents information about food recipes from [TheMealDb](https://www.themealdb.com) API.<br />
+- [Github Project](https://github.com/CoderJava/Food-Recipe) by Yudi Setiawan
+
+<img  src="https://github.com/CoderJava/flutter-guide/blob/master/images/sample%20apps/food%20recipe.gif?raw=true"  width="200"  height="370"/>
+
+[<img src="https://github.com/CoderJava/flutter-guide/blob/master/images/google-play-badge.png" width="194" height="75">](https://play.google.com/store/apps/details?id=ysn.com.food_recipe)
 
 # Recommended Learning Resource
 
