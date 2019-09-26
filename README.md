@@ -96,6 +96,14 @@ Complementing Tutorials:
 Complementing Tutorials:
 -- [Mastering Flutter ListView from Pusher.com](https://pusher.com/tutorials/flutter-listviews)
 
+- ## GridView
+  <p align="center">
+  <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/gridview/flutter-gridview.png?raw=true">
+  </p>
+  
+Complementing Tutorials:
+-- [GridView Tutorial from Yudi Setiawan](https://medium.com/nusanet/flutter-gridview-bad48c1f216c)
+
 # Animations
 
 # Material Design
