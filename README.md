@@ -137,6 +137,10 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [The Hacker News App](https://github.com/filiph/hn_app) by Filip Hracek
 - [Flews - A multi-service news app](https://github.com/jbarr21/flews) by James Barr
 - [Grocery Shopping App](https://github.com/Widle-Studio/Grocery-App) by Widle Studio
+- [BookSearch](https://github.com/Norbert515/BookSearch) by Norbert Kozsir
+- [ToDo App with Firebase](https://github.com/huextrat/Taskist) by Hugo EXTRAT
+- [Habbit](https://github.com/lzyy/habbit) by Limboy
+- [fluttergram - Instagram Clone](https://github.com/mdanics/fluttergram) by Matthew Danics
 
 # Recommended Learning Resource
 
