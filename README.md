@@ -112,6 +112,14 @@ Complementing Tutorials:
 Complementing Tutorials:
 -- [Cupertino Tutorial from Yudi Setiawan](https://medium.com/nusanet/flutter-cupertino-app-76c33768c242)
 
+- ## ColorFiltered
+  <p align="center">
+  <img width="300" src="https://miro.medium.com/max/758/1*Rdqq2kR6wTKmOKmj4FHXSw.png?raw=true">
+  </p>
+  
+Complementing Tutorials:
+-- [ColorFiltered from FlutterPub](https://medium.com/flutterpub/using-colorfiltered-widget-in-flutter-apps-19ba196097e)
+
 # Animations
 
 # Material Design
