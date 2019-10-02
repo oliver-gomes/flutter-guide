@@ -149,6 +149,10 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [ToDo App with Firebase](https://github.com/huextrat/Taskist) by Hugo EXTRAT
 - [Habbit](https://github.com/lzyy/habbit) by Limboy
 - [fluttergram - Instagram Clone](https://github.com/mdanics/fluttergram) by Matthew Danics
+- [inKino - A multiplatform Dart movie app](https://github.com/roughike/inKino) by Iiro Krankka
+- [SpaceX GO!](https://github.com/jesusrp98/spacex-go) by Jesús Rodríguez
+- [Natrium - Fast, Robust & Secure NANO Wallet](https://github.com/appditto/natrium_wallet_flutter) by Appditto
+- [Grey - Material designed music player](https://github.com/avirias/Grey) by Avinash Kumar
 
 # Recommended Learning Resource
 
