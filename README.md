@@ -125,6 +125,15 @@ Complementing Tutorials:
 -- [ColorFiltered from FlutterPub](https://medium.com/flutterpub/using-colorfiltered-widget-in-flutter-apps-19ba196097e)
 
 # Animations
+- ## DayNightSwitch 
+A day night switch widget for Flutter.
+  <p align="center">
+  <img width="300" src="https://raw.githubusercontent.com/divyanshub024/day_night_switch/master/day_night_switch.gif">
+  </p>
+  For More Details :
+-- [Day_Night_Switch](https://github.com/divyanshub024/day_night_switch)
+
+
 
 # Material Design
 Implementing Material Design in Flutter
