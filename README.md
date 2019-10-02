@@ -130,8 +130,8 @@ A day night switch widget for Flutter.
   <p align="center">
   <img width="300" src="https://raw.githubusercontent.com/divyanshub024/day_night_switch/master/day_night_switch.gif">
   </p>
-  For More Details
-  -- [DayNightSwitch](https://github.com/divyanshub024/day_night_switch)
+  For More Details :
+  -- [Day_Night_Switch](https://github.com/divyanshub024/day_night_switch)
 
 
 
