@@ -111,3 +111,10 @@ Implementing Material Design in Flutter
 - [Flutter Bootcamp with Angela Yu](https://www.udemy.com/flutter-bootcamp-with-dart/)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905?source=post_page-----2ade7aa73305----------------------)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Flutter Tutorials by MTECHVIRAL](https://youtu.be/qWL1lGchpRA?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Coding With Flutter by Andrea Bizzo (paid udemy course)](https://codingwithflutter.com/)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+  
