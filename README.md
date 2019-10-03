@@ -102,6 +102,7 @@ Implementing Material Design in Flutter
 - [Material Components widgets](https://flutter.dev/docs/development/ui/widgets/material) <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
 
 # Example Apps
+- [Flutter gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) by Jonah Williams
 
 # Recommended Learning Resource
 
