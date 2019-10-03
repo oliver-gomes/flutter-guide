@@ -92,6 +92,38 @@ Complementing Tutorials:
 Complementing Tutorials:
 -- [Column Tutorial from FlutterDoc](https://flutterdoc.com/widgets-column-e129769fbcb3)
 
+- ## ListView
+  <p align="center">
+  <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/listview/flutter-listview.gif?raw=true">
+  </p>
+
+Complementing Tutorials:
+-- [Mastering Flutter ListView from Pusher.com](https://pusher.com/tutorials/flutter-listviews)
+
+- ## GridView
+  <p align="center">
+  <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/gridview/flutter-gridview.png?raw=true">
+  </p>
+  
+Complementing Tutorials:
+-- [GridView Tutorial from Yudi Setiawan](https://medium.com/nusanet/flutter-gridview-bad48c1f216c)
+
+- ## Cupertino
+  <p align="center">
+  <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/cupertino/flutter-cupertino.png?raw=true">
+  </p>
+  
+Complementing Tutorials:
+-- [Cupertino Tutorial from Yudi Setiawan](https://medium.com/nusanet/flutter-cupertino-app-76c33768c242)
+
+- ## ColorFiltered
+  <p align="center">
+  <img width="300" src="https://miro.medium.com/max/758/1*Rdqq2kR6wTKmOKmj4FHXSw.png?raw=true">
+  </p>
+  
+Complementing Tutorials:
+-- [ColorFiltered from FlutterPub](https://medium.com/flutterpub/using-colorfiltered-widget-in-flutter-apps-19ba196097e)
+
 # Animations
 
 # Material Design
@@ -102,7 +134,23 @@ Implementing Material Design in Flutter
 - [Material Components widgets](https://flutter.dev/docs/development/ui/widgets/material) <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
 
 # Example Apps
+## Food Recipe
+Application that presents information about food recipes from [TheMealDb](https://www.themealdb.com) API.<br />
+- [Github Project](https://github.com/CoderJava/Food-Recipe) by Yudi Setiawan
+
+<img  src="https://github.com/CoderJava/flutter-guide/blob/master/images/sample%20apps/food%20recipe.gif?raw=true"  width="200"  height="370"/>
+
+[<img src="https://github.com/CoderJava/flutter-guide/blob/master/images/google-play-badge.png" width="194" height="75">](https://play.google.com/store/apps/details?id=ysn.com.food_recipe)
+
+- [The Hacker News App](https://github.com/filiph/hn_app) by Filip Hracek
+- [Flews - A multi-service news app](https://github.com/jbarr21/flews) by James Barr
+- [Grocery Shopping App](https://github.com/Widle-Studio/Grocery-App) by Widle Studio
+- [BookSearch](https://github.com/Norbert515/BookSearch) by Norbert Kozsir
+- [ToDo App with Firebase](https://github.com/huextrat/Taskist) by Hugo EXTRAT
+- [Habbit](https://github.com/lzyy/habbit) by Limboy
+- [fluttergram - Instagram Clone](https://github.com/mdanics/fluttergram) by Matthew Danics
 - [Flutter gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) by Jonah Williams
+
 
 # Recommended Learning Resource
 
@@ -118,4 +166,3 @@ Implementing Material Design in Flutter
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
 - [Coding With Flutter by Andrea Bizzo (paid udemy course)](https://codingwithflutter.com/)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
-  
