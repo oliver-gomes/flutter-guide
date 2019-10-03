@@ -151,7 +151,6 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [fluttergram - Instagram Clone](https://github.com/mdanics/fluttergram) by Matthew Danics
 - [Flutter gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) by Jonah Williams
 
-
 # Recommended Learning Resource
 
 - [The Boring Flutter Development Show](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
