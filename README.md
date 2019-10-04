@@ -134,6 +134,17 @@ Complementing Tutorials:
 -- [ColorFiltered from FlutterPub](https://medium.com/flutterpub/using-colorfiltered-widget-in-flutter-apps-19ba196097e)
 
 # Animations
+
+- ## Login Animation
+<img src="https://cdn-images-1.medium.com/fit/t/1600/480/1*TKdqkhGgRYnX78ECSSQWeA.gif"/>
+
+Implementing super smooth animations in your Flutter App:-- [Flutter Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation)
+
+- ## Facebook reaction
+<img src="https://miro.medium.com/max/300/1*W4WhAABvJNKcH2w80Dm6KA.gif"/>
+
+Facebook Reactions Animation With Flutter:-- [Facebook Reactions](https://github.com/duytq94/flutter-fb-reactions-animation)
+=======
 - ## DayNightSwitch 
 A day night switch widget for Flutter.
   <p align="center">
@@ -167,6 +178,21 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [ToDo App with Firebase](https://github.com/huextrat/Taskist) by Hugo EXTRAT
 - [Habbit](https://github.com/lzyy/habbit) by Limboy
 - [fluttergram - Instagram Clone](https://github.com/mdanics/fluttergram) by Matthew Danics
+- [Piano Tiles - A simple clone app of Piano Tiles 2 game](https://github.com/MarcinusX/piano_tiles) by Marcin Szałek
+<img src="https://raw.githubusercontent.com/MarcinusX/piano_tiles/master/screenshot.gif"/>
+
+-[Flutter TicTac Game](https://github.com/Datlyfe/flutter_tic_tac) by Bouaggad Moez
+<div  style="text-align: center"><table><tr>
+<td  style="text-align: center">
+<img  src="https://flutterawesome.com/content/images/2019/09/1.jpg"  width="200"  height="370"/>
+</td>
+<td  style="text-align: center">
+<img  src="https://flutterawesome.com/content/images/2019/09/2.jpg"  width="200"  height="370"/>
+</td>
+<td  style="text-align: center">
+<img  src="https://flutterawesome.com/content/images/2019/09/3.jpg"  width="200"/>
+</td>
+</tr></table></div>
 
 # Recommended Learning Resource
 
@@ -176,3 +202,12 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [Flutter Bootcamp with Angela Yu](https://www.udemy.com/flutter-bootcamp-with-dart/)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Flutter tutorials for beginners to advanced.](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Flutter tutorials from whatsupcoders](https://www.youtube.com/playlist?list=PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Flutter tutorials from The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Flutter tutorials from Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+
