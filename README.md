@@ -108,6 +108,15 @@ Complementing Tutorials:
 Complementing Tutorials:
 -- [GridView Tutorial from Yudi Setiawan](https://medium.com/nusanet/flutter-gridview-bad48c1f216c)
 
+- ## Slivers
+  <p align="center">
+  <img width="300" src="https://github.com/sbis04/flutter-guide/blob/master/images/sliver_1.gif">
+  <img width="300" src="https://github.com/sbis04/flutter-guide/blob/master/images/sliver_2.gif">
+  </p>
+  
+Complementing Tutorials:
+-- [Slivers, Demystified from Emily Fortuna](https://medium.com/nusanet/flutter-gridview-bad48c1f216c)
+
 - ## Cupertino
   <p align="center">
   <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/cupertino/flutter-cupertino.png?raw=true">
