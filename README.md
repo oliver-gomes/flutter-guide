@@ -178,6 +178,7 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [ToDo App with Firebase](https://github.com/huextrat/Taskist) by Hugo EXTRAT
 - [Habbit](https://github.com/lzyy/habbit) by Limboy
 - [fluttergram - Instagram Clone](https://github.com/mdanics/fluttergram) by Matthew Danics
+- [Flutter gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) by Jonah Williams
 
 - [inKino - A multiplatform Dart movie app](https://github.com/roughike/inKino) by Iiro Krankka
 - [SpaceX GO!](https://github.com/jesusrp98/spacex-go) by Jesús Rodríguez
@@ -209,6 +210,14 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [Flutter Bootcamp with Angela Yu](https://www.udemy.com/flutter-bootcamp-with-dart/)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/flutterio-icon.svg?sanitize=true" height="20"/>
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+
+- [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905?source=post_page-----2ade7aa73305----------------------)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Flutter Tutorials by MTECHVIRAL](https://youtu.be/qWL1lGchpRA?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+- [Coding With Flutter by Andrea Bizzo (paid udemy course)](https://codingwithflutter.com/)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+=======
 - [Flutter tutorials for beginners to advanced.](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
 - [Flutter tutorials from whatsupcoders](https://www.youtube.com/playlist?list=PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI)
@@ -217,4 +226,3 @@ Application that presents information about food recipes from [TheMealDb](https:
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
 - [Flutter tutorials from Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
-
