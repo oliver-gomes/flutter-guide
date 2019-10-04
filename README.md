@@ -178,6 +178,12 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [ToDo App with Firebase](https://github.com/huextrat/Taskist) by Hugo EXTRAT
 - [Habbit](https://github.com/lzyy/habbit) by Limboy
 - [fluttergram - Instagram Clone](https://github.com/mdanics/fluttergram) by Matthew Danics
+
+- [inKino - A multiplatform Dart movie app](https://github.com/roughike/inKino) by Iiro Krankka
+- [SpaceX GO!](https://github.com/jesusrp98/spacex-go) by Jesús Rodríguez
+- [Natrium - Fast, Robust & Secure NANO Wallet](https://github.com/appditto/natrium_wallet_flutter) by Appditto
+- [Grey - Material designed music player](https://github.com/avirias/Grey) by Avinash Kumar
+=======
 - [Piano Tiles - A simple clone app of Piano Tiles 2 game](https://github.com/MarcinusX/piano_tiles) by Marcin Szałek
 <img src="https://raw.githubusercontent.com/MarcinusX/piano_tiles/master/screenshot.gif"/>
 
@@ -193,6 +199,7 @@ Application that presents information about food recipes from [TheMealDb](https:
 <img  src="https://flutterawesome.com/content/images/2019/09/3.jpg"  width="200"/>
 </td>
 </tr></table></div>
+
 
 # Recommended Learning Resource
 
