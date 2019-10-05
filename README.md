@@ -214,3 +214,10 @@ Application that presents information about food recipes from [TheMealDb](https:
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
 - [Flutter tutorials from Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
+  
+# Official Link to Flutter Community on different platforms
+
+- [Youtube](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+- [Reddit](https://www.reddit.com/r/FlutterDev/)
+- [Discord](https://discordapp.com/invite/N7Yshp4)
+- [Twitter](https://twitter.com/FlutterDev)
