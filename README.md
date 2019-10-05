@@ -143,8 +143,9 @@ Complementing Tutorials:
 Implementing super smooth animations in your Flutter App:-- [Flutter Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation)
 
 - ## Facebook reaction
+<p align="center">
 <img  width="200" src="https://miro.medium.com/max/300/1*W4WhAABvJNKcH2w80Dm6KA.gif"/>
-
+</p>
 Facebook Reactions Animation With Flutter:-- [Facebook Reactions](https://github.com/duytq94/flutter-fb-reactions-animation)
 - ## DayNightSwitch 
 A day night switch widget for Flutter.
