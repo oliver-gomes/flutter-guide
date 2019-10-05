@@ -46,7 +46,9 @@ Don't forget to add them. Now I'd love to see your suggestions!
 - [Introduction](#introduction)
 - [Widgets](#widgets)
 - [Animations](#animations)
+- [Material Design](#material-design)
 - [Example Apps](#example-apps)
+  - [Food Recipe](#food-recipe)
 - [Recommended Learning Resource](#recommended-learning-resource)
 
 # Introduction
@@ -102,7 +104,7 @@ Complementing Tutorials:
 
 - ## GridView
   <p align="center">
-  <img width="300" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/gridview/flutter-gridview.png?raw=true">
+  <img width="200" src="https://github.com/CoderJava/flutter-guide/blob/master/images/widgets/gridview/flutter-gridview.png?raw=true">
   </p>
   
 Complementing Tutorials:
@@ -110,8 +112,8 @@ Complementing Tutorials:
 
 - ## Slivers
   <p align="center">
-  <img width="300" src="https://github.com/sbis04/flutter-guide/blob/master/images/sliver_1.gif">
-  <img width="300" src="https://github.com/sbis04/flutter-guide/blob/master/images/sliver_2.gif">
+  <img width="100" src="https://github.com/sbis04/flutter-guide/blob/master/images/sliver_1.gif">
+  <img width="100" src="https://github.com/sbis04/flutter-guide/blob/master/images/sliver_2.gif">
   </p>
   
 Complementing Tutorials:
@@ -141,14 +143,13 @@ Complementing Tutorials:
 Implementing super smooth animations in your Flutter App:-- [Flutter Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation)
 
 - ## Facebook reaction
-<img src="https://miro.medium.com/max/300/1*W4WhAABvJNKcH2w80Dm6KA.gif"/>
+<img  width="200" src="https://miro.medium.com/max/300/1*W4WhAABvJNKcH2w80Dm6KA.gif"/>
 
 Facebook Reactions Animation With Flutter:-- [Facebook Reactions](https://github.com/duytq94/flutter-fb-reactions-animation)
-=======
 - ## DayNightSwitch 
 A day night switch widget for Flutter.
   <p align="center">
-  <img width="300" src="https://raw.githubusercontent.com/divyanshub024/day_night_switch/master/day_night_switch.gif">
+  <img width="200" src="https://raw.githubusercontent.com/divyanshub024/day_night_switch/master/day_night_switch.gif">
   </p>
   For More Details :
 -- [Day_Night_Switch](https://github.com/divyanshub024/day_night_switch)
@@ -184,22 +185,9 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [SpaceX GO!](https://github.com/jesusrp98/spacex-go) by Jesús Rodríguez
 - [Natrium - Fast, Robust & Secure NANO Wallet](https://github.com/appditto/natrium_wallet_flutter) by Appditto
 - [Grey - Material designed music player](https://github.com/avirias/Grey) by Avinash Kumar
-=======
 - [Piano Tiles - A simple clone app of Piano Tiles 2 game](https://github.com/MarcinusX/piano_tiles) by Marcin Szałek
-<img src="https://raw.githubusercontent.com/MarcinusX/piano_tiles/master/screenshot.gif"/>
 
--[Flutter TicTac Game](https://github.com/Datlyfe/flutter_tic_tac) by Bouaggad Moez
-<div  style="text-align: center"><table><tr>
-<td  style="text-align: center">
-<img  src="https://flutterawesome.com/content/images/2019/09/1.jpg"  width="200"  height="370"/>
-</td>
-<td  style="text-align: center">
-<img  src="https://flutterawesome.com/content/images/2019/09/2.jpg"  width="200"  height="370"/>
-</td>
-<td  style="text-align: center">
-<img  src="https://flutterawesome.com/content/images/2019/09/3.jpg"  width="200"/>
-</td>
-</tr></table></div>
+-[Flutter TicTac Game](https//github.com/Datlyfe/flutter_tic_tac) by Bouaggad Moez
 
 
 # Recommended Learning Resource
