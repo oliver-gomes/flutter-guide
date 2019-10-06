@@ -187,8 +187,12 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [Natrium - Fast, Robust & Secure NANO Wallet](https://github.com/appditto/natrium_wallet_flutter) by Appditto
 - [Grey - Material designed music player](https://github.com/avirias/Grey) by Avinash Kumar
 - [Piano Tiles - A simple clone app of Piano Tiles 2 game](https://github.com/MarcinusX/piano_tiles) by Marcin Szałek
+- [Flutter TicTac Game](https//github.com/Datlyfe/flutter_tic_tac) by Bouaggad Moez
 
--[Flutter TicTac Game](https//github.com/Datlyfe/flutter_tic_tac) by Bouaggad Moez
+
+- [The Public Transport - Modern public transport for Germany](https//github.com/thepublictransport/thepublictransport-app) by Tristan Marsell (PDesire)
+
+[<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="194" height="75"/>](https://play.google.com/store/apps/details?id=de.pdesire.thepublictransportapp&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 
 # Recommended Learning Resource
