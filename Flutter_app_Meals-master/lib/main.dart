@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'dart:async';
 import './dummy_data.dart';
 import './screens/tabs_screen.dart';
 import './screens/meal_detail_screen.dart';
