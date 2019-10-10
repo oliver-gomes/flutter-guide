@@ -188,6 +188,7 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [Grey - Material designed music player](https://github.com/avirias/Grey) by Avinash Kumar
 - [Piano Tiles - A simple clone app of Piano Tiles 2 game](https://github.com/MarcinusX/piano_tiles) by Marcin Szałek
 - [Flutter TicTac Game](https//github.com/Datlyfe/flutter_tic_tac) by Bouaggad Moez
+- [Flutter Implementation of Google Maps API](https://github.com/nikhilmufc7/Flutter_GreatPlaces) by Nikhil Singh
 
 
 - [The Public Transport - Modern public transport for Germany](https//github.com/thepublictransport/thepublictransport-app) by Tristan Marsell (PDesire)
