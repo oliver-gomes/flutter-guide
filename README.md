@@ -174,6 +174,7 @@ Application that presents information about food recipes from [TheMealDb](https:
 [<img src="https://github.com/CoderJava/flutter-guide/blob/master/images/google-play-badge.png" width="194" height="75">](https://play.google.com/store/apps/details?id=ysn.com.food_recipe)
 
 - [The Hacker News App](https://github.com/filiph/hn_app) by Filip Hracek
+- [Basic Google Translate Layout](https://github.com/Ramyaeaswaran/translate_app_layout) by Ramya Easwaran
 - [Flews - A multi-service news app](https://github.com/jbarr21/flews) by James Barr
 - [Grocery Shopping App](https://github.com/Widle-Studio/Grocery-App) by Widle Studio
 - [BookSearch](https://github.com/Norbert515/BookSearch) by Norbert Kozsir
@@ -214,6 +215,7 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [Flutter tutorials for beginners to advanced.](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
 - [Flutter tutorials from whatsupcoders](https://www.youtube.com/playlist?list=PL6BTtm1PxwOUpt1muzFD3ErxWdCzLkYbI)
+  <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
 - [Flutter tutorials from The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
