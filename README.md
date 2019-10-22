@@ -221,7 +221,11 @@ Application that presents information about food recipes from [TheMealDb](https:
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
 - [Flutter tutorials from Tensor Programming](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd)
   <img src="https://github.com/oliver-gomes/flutter-guide/raw/master/images/svg/screen-player.svg?sanitize=true" height="20"/>
-  
+- [Flutter Cool UI and Firebase Tutorials by Raja Yogan](https://www.youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ/featured)
+
+- [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+
+- [Flutter Crash Course](https://fluttercrashcourse.com)
 # Official Link to Flutter Community available on different platforms
 
 - [Youtube](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
