@@ -197,6 +197,15 @@ Application that presents information about food recipes from [TheMealDb](https:
 [<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="194" height="75"/>](https://play.google.com/store/apps/details?id=de.pdesire.thepublictransportapp&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
 
+- [Water Drink Reminder](https://github.com/ThalapathySiva/drink_reminder_flutter) by Sivaram
+
+- [Draft - Notes taking App](https://github.com/roshanrahman/flutter-notes-app) by Roshan 
+
+- [Chap - Chat Application](https://github.com/vineeshvk/chat-app-flutter) by Vineesh
+
+- [Hand cricket Game](https://github.com/sivaperumal644/hand_cricket_flutter) by Siva Perumal
+
+
 # Recommended Learning Resource
 
 - [The Boring Flutter Development Show](https://www.youtube.com/watch?v=vqPG1tU6-c0&list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl)
