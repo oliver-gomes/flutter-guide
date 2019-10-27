@@ -241,3 +241,5 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [Reddit](https://www.reddit.com/r/FlutterDev/)
 - [Discord](https://discordapp.com/invite/N7Yshp4)
 - [Twitter](https://twitter.com/FlutterDev)
+- [Medium](https://medium.com/flutter-io)
+- [Gitter](https://gitter.im/flutter/flutter)
