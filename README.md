@@ -205,6 +205,8 @@ Application that presents information about food recipes from [TheMealDb](https:
 
 - [Hand cricket Game](https://github.com/sivaperumal644/hand_cricket_flutter) by Siva Perumal
 
+- [Flutter News App](https://github.com/CoderJava/Flutter-News-App) by Yudi Setiawan
+
 
 # Recommended Learning Resource
 
