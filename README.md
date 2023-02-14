@@ -234,6 +234,7 @@ Application that presents information about food recipes from [TheMealDb](https:
 - [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 - [Flutter Crash Course](https://fluttercrashcourse.com)
 - [DevonFw Flutter Guide](https://github.com/devonfw-forge/devonfw4flutter) 
+- [Flutter Developer Roadmap](https://roadmap.sh/flutter) 
 
 # Official Link to Flutter Community available on different platforms
 
